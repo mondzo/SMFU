@@ -134,6 +134,7 @@ namespace SteamMultiplayer.Lobby
         {
             SendChatMessage(SteamFriends.GetPersonaName() + " Lefted the Lobby", false);
             NetworkControl.SendPacketsSafely(new P2PPackage(null, P2PPackageType.LeftLobby), false);
+            NetworkControl.PlayerList.Clear();
             SteamMatchmaking.LeaveLobby(lobby);
             lobby = new CSteamID();
 
