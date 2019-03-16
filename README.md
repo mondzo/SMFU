@@ -1,13 +1,7 @@
-# Steam-Multiplayer-for-Unity
+# SMFU
 
 [![Issues](https://img.shields.io/github/issues/Asixa/Steam-Multiplayer-for-Unity.svg?style=flat-square)](https://github.com/Asixa/Steam-Multiplayer-for-Unity/issues)  
 [![Release](https://img.shields.io/github/release/Asixa/Steam-Multiplayer-for-Unity.svg?style=flat-square)](https://github.com/Asixa/Steam-Multiplayer-for-Unity/releases/latest)
-
-This is a Steam multiplayer online solution based on Steamwork.Net for small P2P multiplayer games.
-
-If you think this project is helpful to you, please give :star: ,
-
-If you want to work with us to improve this project, please feel free to feedback Issue or send a Pull Request, I will invite you to join the collaborators.
 
 # How To Play The Demo
 Run the main scene (Main.unity), you will see this.
